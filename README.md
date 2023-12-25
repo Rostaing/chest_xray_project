@@ -1,1 +1,1 @@
-Chest-Xray project with Convolutional Neural Network (CNN).
+The main objective of this dataset is to develop a Convolutional Neural Network (CNN) model capable of automatically classifying chest X-ray images based on medical conditions, particularly the detection of pneumonia or other abnormalities.
